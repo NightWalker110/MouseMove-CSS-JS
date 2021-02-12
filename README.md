@@ -1,3 +1,3 @@
 # MouseMove-CSS-JS
 
-This is CSS and 
+This is CSS and JS 
